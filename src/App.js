@@ -1,3 +1,6 @@
+import React from 'react';
+import '.App/css';
+
 // creating this todo using class-based componenets
 // managing the state using class-based components
 // managing state using functional components is a more modern practice by using React Hooks
